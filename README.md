@@ -1,2 +1,1 @@
-# ML-with-Tensorflow-udacityND
-Introduction to Machine Learning with TensorFlow Nanodegree Program
+# Udacity Introduction to Machine Learning with TensorFlow Nanodegree Programming assignments
