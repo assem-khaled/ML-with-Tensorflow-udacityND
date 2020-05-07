@@ -1,4 +1,4 @@
-# Data Scientist Nanodegree
+# Introduction to Machine Learning with TensorFlow Nanodegree
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
