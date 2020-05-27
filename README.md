@@ -13,3 +13,11 @@
 - Introduction to neural network
 - Deep Learning with Tensorflow
 - Final Project: Image Classifier using Tensorflow
+
+## Unsupervised Learning
+- Clustering
+- Hierarchical and Density Based Clustering
+- GMM and Cluster validation
+- Dimensionality Reduction and PCA
+- ICA
+- Final Project: Identify Customer Segments with-Arvato
