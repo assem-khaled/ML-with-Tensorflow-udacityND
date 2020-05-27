@@ -8,3 +8,8 @@
 - Evaluation Metrics
 - Training and tuning
 - Final Project: Finding donors
+
+## Deep Learning
+- Introduction to neural network
+- Deep Learning with Tensorflow
+- Final Project: Image Classifier using Tensorflow
