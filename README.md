@@ -12,7 +12,6 @@
 ## Deep Learning
 - Introduction to neural network
 - Deep Learning with Tensorflow
-- Deep Learning with PyTorch
 - Final Project: Image Classifier using Tensorflow
 
 ## Unsupervised Learning
