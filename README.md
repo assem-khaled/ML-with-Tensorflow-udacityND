@@ -20,4 +20,4 @@
 - GMM and Cluster validation
 - Dimensionality Reduction and PCA
 - ICA
-- Final Project: Identify Customer Segments with-Arvato
+- Final Project: [Identify Customer Segments with-Arvato](https://github.com/assem-khaled/Identify-Customer-Segments-UdacityND)
